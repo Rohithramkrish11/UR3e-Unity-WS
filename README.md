@@ -16,7 +16,7 @@ This repository contains the Unity-side of the UR3e ROS Unity Project
 1. Clone this repository:
 
 ```console
-user@DESKTOP:~$ git clone https://github.com/Rohithramkrish11/UR3e-Unity-WS.git
+git clone https://github.com/Rohithramkrish11/UR3e-Unity-WS.git
 ```
 
 2. Open the project in Unity Hub:
